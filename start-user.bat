@@ -3,6 +3,6 @@
 set PYTHON=
 set GIT=
 set VENV_DIR=
-set COMMANDLINE_ARGS= --no-half-vae --disable-nan-check
+set COMMANDLINE_ARGS=
 
 call startfk.bat
